@@ -8,7 +8,7 @@ public class SprBmvnApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SprBmvnApplication.class, args);
-        System.out.println("Hello!");
+        System.out.println("Hello there!");
     }
 
 }
